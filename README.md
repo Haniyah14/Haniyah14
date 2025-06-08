@@ -1,27 +1,27 @@
-## Hi, I'm Haniyah Sultan 👋
+# Hi, I'm Haniyah Sultan 👋
 
-I'm a Computer Science undergraduate specializing in Software Engineering at Habib University (Class of 2026). I’m passionate about exploring different areas in computer science and continuously expanding my skill set.
+I'm a Computer Science undergraduate at Habib University (Class of 2026), with a growing interest in using data to solve real-world problems. As an aspiring **data analyst**, I enjoy uncovering insights through analysis, visualization, and storytelling.
 
-Currently, I am self-learning data science and AI/ML to deepen my understanding and build practical skills in these exciting fields.
+Currently, I’m building my skills in Python, SQL, and machine learning while working on personal projects that help me understand how data can drive smarter decisions. I’m excited to explore opportunities where I can apply my technical background and analytical mindset to make a meaningful impact.
 
-💡 **What I do:**
-- Build scalable web applications using React, Next.js, and Node.js
-- Develop machine learning models with TensorFlow and Scikit-learn
-- Apply AI algorithms to solve real-world problems
-- Drive insights through data analysis and visualization
-- Collaborate on SaaS projects that deliver business value
+## 💡 What I Do
+- Clean, analyze, and visualize datasets to find patterns and trends  
+- Use Python and SQL to explore data and answer real-world questions  
+- Create interactive dashboards and reports  
+- Build web apps using React, Next.js, and Node.js  
+- Experiment with beginner-level ML models using Scikit-learn and TensorFlow  
 
-🚀 Eager to grow and contribute to innovative projects that combine technology and business impact.
-
----
-
-### Tech Stack:
-- **Languages:** Python, JavaScript, C, Java
-- **Web:** HTML, CSS, React, Next.js, Node.js, MongoDB
-- **ML & AI:** TensorFlow, Scikit-learn (Beginner)
-- **Tools:** Google Workspace, Excel, MS Word, Data Visualization
+🚀 I'm actively looking for a **data analyst internship** where I can contribute, learn from experienced teams, and grow my understanding of analytics in a real-world setting.
 
 ---
 
-### Let's connect:
-[Email](mailto:haniyahsultan14@gmail.com)
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, JavaScript, C, Java  
+- **Web:** HTML, CSS, React, Next.js, Node.js, MongoDB  
+- **Data & ML:** Pandas, Excel, Scikit-learn, TensorFlow (Beginner)  
+- **Tools:** Google Workspace, MS Word, Data Visualization (Matplotlib, Seaborn)
+
+---
+
+## 📬 Let's Connect
+[📧 Email Me](mailto:haniyahsultan14@gmail.com)
